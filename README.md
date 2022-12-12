@@ -1,4 +1,4 @@
 # Consumo-api-com-token
 <div align="center">
-  <p>Publicado em:</p>
+  <p>Publicado em:blogtoken.netlify.app</p>
 </div>
