@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-black{
+    background-color: #000;
+}
+.image img{
+    height: 300px ;
+}
+.estrela-cor {
+    color: orange;
+  }
+@media (max-width: 450px)
+{
+    .text-size{
+        font-size: 4vw;
+    }
+    .cat-img{
+        width: 60%;
+        margin-left: 20%;
+    }
+}
